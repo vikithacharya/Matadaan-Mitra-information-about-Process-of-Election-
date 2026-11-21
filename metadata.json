@@ -1,0 +1,8 @@
+{
+  "name": "Matadaan Mitra – Karnataka Election Guide & Mock Polling Booth",
+  "description": "Non-partisan civic education guide, Karnataka constituency & booth map explorer, Gemini civic assistant, and interactive EVM/VVPAT mock polling booth simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
